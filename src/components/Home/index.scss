@@ -1,0 +1,14 @@
+.home-page{
+    .text-field{
+        position: absolute;
+        left: 10%;
+        top: 50%;
+        transform: translateY(-50%); //Readjust to vertical center.
+        width: 40%;
+        max-height: 90%;
+    }
+
+    h1{
+        font-size: 50px;
+    }
+}
