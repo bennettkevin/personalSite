@@ -1,4 +1,5 @@
 import GreensboroBridge from '../../Assets/Images/GreensboroBridge.JPG'
+import './index.scss'
 
 const About = () => (
     <div className="container about-page">
@@ -10,7 +11,7 @@ const About = () => (
                     at the halfway point of my second semester I would drop out. This lead to my career in construction, a total 
                     of 6 years on heavy highway/bridge construction. Below is the first bridge project I worked on it is a section 
                     of the urban loop in Greensboro, NC.</p>
-                    <img src={GreensboroBridge} alt="Greensboro Urban loop Battleground Ave section."/>
+                <img src={GreensboroBridge} alt="Greensboro Urban loop Battleground Ave section."/>
             </section>
         </div>
     </div>
