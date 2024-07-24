@@ -17,6 +17,7 @@ const About = () => (
                     me to not only progress in a way that can benifit me from a career standpoint but also to pursue the development of personal projects.
                     Feel free to check out some of the things I have worked on and projects I have built while learning on <a target='_blank' rel='noreferrer' href='https://github.com/bennettkevin'>GitHub.</a>
                     </p>
+            </section>
         </div>
         <img src={GreensboroBridge} alt="Greensboro Urban loop Battleground Ave section."/>
     </div>
